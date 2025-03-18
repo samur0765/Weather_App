@@ -12,3 +12,7 @@ API Entegrasyonu: Gerçek hava durumu verisi, bir hava durumu API'si aracılığ
 
 Mobil Uyumluluk: Uygulama, mobil cihazlarla uyumludur ve responsive tasarıma sahiptir.
 
+
+<h2>Ekran Görüntüsü</h2>
+
+![](kayıt.gif)
