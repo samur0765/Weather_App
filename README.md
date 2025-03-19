@@ -16,3 +16,10 @@ Mobil Uyumluluk: Uygulama, mobil cihazlarla uyumludur ve responsive tasarıma sa
 <h2>Ekran Görüntüsü</h2>
 
 ![](kayıt.gif)
+
+
+<h2>Demo</h2>
+
+<h4>Canlı demo için buraya tıklayın</h4>
+
+![](https://wheather-ap.netlify.app/)
