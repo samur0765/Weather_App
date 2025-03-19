@@ -22,4 +22,4 @@ Mobil Uyumluluk: Uygulama, mobil cihazlarla uyumludur ve responsive tasarıma sa
 
 <h4>Canlı demo için buraya tıklayın</h4>
 
-<a href="https://wheather-ap.netlify.app/"></a>
+https://wheather-ap.netlify.app/
